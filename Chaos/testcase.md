@@ -1,6 +1,6 @@
 ## The Question
 
-<img src="1.1.png"> </img>
+<img src="https://github.com/rohith1125/OrderOfChaos/blob/master/Chaos/1.PNG"> </img>
 
 # Sample input
 
@@ -8,7 +8,7 @@
 abcheaiocsi
 choas
 #Sample Output
-<img src="1.1.png"> </img>
+<img src="https://github.com/rohith1125/OrderOfChaos/blob/master/Chaos/1.1.PNG"> </img>
 
 # TestCase
 

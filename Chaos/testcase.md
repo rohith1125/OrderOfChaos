@@ -7,7 +7,7 @@
 2
 abcheaiocsi
 choas
-#Sample Output
+# Sample Output
 <img src="https://github.com/rohith1125/OrderOfChaos/blob/master/Chaos/1.1.PNG"> </img>
 
 # TestCase

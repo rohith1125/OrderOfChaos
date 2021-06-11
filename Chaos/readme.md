@@ -3,15 +3,16 @@
 <img src="https://github.com/rohith1125/OrderOfChaos/blob/master/Chaos/1.PNG"> </img>
 
 # Sample input
-
+```md
 2
 abcheaiocsi
 choas
+```
 # Sample Output
 <img src="https://github.com/rohith1125/OrderOfChaos/blob/master/Chaos/1.1.PNG"> </img>
 
 # TestCase
-
+```md
 10
 eocuzhzpahoshxo
 tomdhcqdlbzriesqyarosbqr
@@ -23,3 +24,4 @@ ubbovkdwlclrmywucxbslowpqjpaykqebrxzpbkcxfpbfoakzpsqfrzmvbblbdwfriexyyrdboybkdsj
 qkpjfdvisgiefzewbwmwdaspyjqaftwxtnjjfcdtixikqgeiajaehspedomdkdmfjtkmdvgfecaruiddazbjdmjquntrtbzmfmdpphiqhnhtqzohsfhscphuhvetlinwsypwtvtweczymbfsxkkkcavfojjtsllfvhzhcfdxumipyjdraivdoiailsdhddecnddgaxth
 bbfjisiokghzmtzjchneihqlwqazmibdejcqjyqtqchvkpdlfvqjuaowbnnwivaxfusxwhjrruosxebgqchtswtlkwsckyykicnyjcomcnfhyapttfipszzvqhzycmyuqoaqevogzhsawixkrcductghiicjhczadcwcpvifsbvihavnhpjacuavxmardlmhezqmgwhpseiqbwpgmrqdspantuxrnmkcmcbczujrkdlfrwmcuzpcphzvjh
 jqfojcjgdxmdhsfvxsownxctkgrvffuiudnagxjubvbhnymrkgvrndlzvqdbcfkstztspwqafyjqcyrpqslrqmxxvcanwkvwacfhruktkpfdvssavajgymgimgflpnulahdxvkwjeqntxinkmdhkzyfvibbxzagvvbwlkcghevlpmnzkwadaaumkbybykyudxdscphfjwetzmyvqutwzcxtzmqylgsbcnbqjxbhrcaqnkamqsxxhdscjuyopu
+```

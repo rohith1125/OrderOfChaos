@@ -1,6 +1,6 @@
 ## The question
 
-<img src="CudaLibre.png"> </img>
+<img src="https://github.com/rohith1125/OrderOfChaos/blob/master/CubaLibre/CudaLibre.PNG"> </img>
 
 # Sample input
 
@@ -10,7 +10,7 @@ choas
 
 # Sample Output
 
-<img src="2.2.png"> </img>
+<img src="https://github.com/rohith1125/OrderOfChaos/blob/master/CubaLibre/2.2.PNG"> </img>
 
 # TestCase
 
